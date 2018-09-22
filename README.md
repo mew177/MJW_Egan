@@ -1,4 +1,4 @@
 # LeetCode-Practice
-# MJW_Egan
+# MengJuW_Egan
 
 This is a repository just for storing my coding practicing work
