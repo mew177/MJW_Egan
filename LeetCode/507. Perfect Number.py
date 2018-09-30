@@ -5,7 +5,8 @@
     3.
 
     Idea:
-    1. Check dividers less than sqrt(num), and sum them. (Terrible Time Complexity?)
+    1. Check dividers less than sqrt(num),
+    2. sum their prime dividers and (num / prime divider). (Terrible Time Complexity?)
 
 """
 
