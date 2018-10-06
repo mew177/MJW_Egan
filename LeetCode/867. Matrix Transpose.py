@@ -11,6 +11,8 @@
     2. column size of Input, will be the row size of Output
     3. Output[y][x] = Input[x][y]
 
+    TimeComplexity:
+    O(m*n) m = sizeOfRow, n = sizeOfCol
 """
 
 A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
